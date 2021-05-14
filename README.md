@@ -4,6 +4,25 @@
 > <br> -- plenty anonymous authors
 > 
 
+# Target Audience
+
+- you want to self-publish, or otherwise need or want to be in control of the part of the editorial, publishing and printing process that's waiting beyond the "typing it into the computer" phase and you want to produce professional looking results.
+- you may have a publisher, but you're curious and want to know what might be handy. (For you: plaintext and high rez image scans that your editor **likes**. Period.)
+- you're just one curious cat, you are! 😉
+
+## Not A Target Audience
+
+If you're fine with producing something that's easily recognizable as a "best effort" hobby horse. 
+When your pinnacle of excellence is when you're rated in the family as the "dear uncle that's helping out granny with her garden and enjoying his computer hobby as a pensioner; he's a doddle."
+
+# Me, *I* want to know. I use Word. 🥇
+
+However, if you want to produce printed work that looks like it could have been purchased at Barnes & Noble or similar book-selling venues, you may need to gear up. Read on, pardner. 🤠
+
+
+
+---
+
 [EN]
 
 When "Word" features alongside "book" and "printing" or "publishing" in a conversation, you are having close encounters with the magical land where indeed "one word says it all"; all too often is "Word" indicative of a heap of trouble if you value your output and hope to produce a good-looking tome.
@@ -13,6 +32,8 @@ When "Word" features alongside "book" and "printing" or "publishing" in a conver
 [NL]
 
 Als "Word", "boek" en "drukker" of "uitgever" in één en hetzelfde gesprek voor komen, dan heb je met "aan zekerheid grenzende waarschijnlijkheid" zojuist direct ervaren wat het betekent als men zegt: "dat spreekt boekdelen!" MS Word staat garant voor een hoop gedonder en gedoe als je een boek wilt uitgeven dat er goed uit ziet.
+
+---
 
 
 
@@ -91,11 +112,15 @@ Checklist for authors!
   >  Personal experience includes fatal hassle with PDFs produced from a document including multi-layered Illustrator files in one project: had to flatten those originals before the printer would stop barfing a hairball around midway through the pages. Bugs and limitations are everywhere.
   >  
     
-  ☞ If you get it right on your second proof run, you're either *lucky* or your standard of quality is ... mindful of costs.
+  ☞ If you get it right on your second proof run, you're either *lucky* or your standard of quality is 🤔 ... mindful of costs.
   
   ☞ If you get it right on your first proof run, you're *very* lucky. 🤔
 
   ☞ You can only expect to need fewer proof runs when you're doing repeat business: same printer, same process at your place, etc. Example: publishing a quarterly magazine.
 
 - get yourself a printer shop that is easy to reach and talk to. When you're (getting into) doing very specialized stuff like art house publications (large format, full spread imagery for *connaisseurs* and such) you may need to look further, but at least I know my Mandarin is rubbish and my run sizes are so very *sub par* too: "printed in China" is not an option for the likes of me (and you, most probably).
+
+- specific to the Netherlands? Very few printers are interested in small runs. Of course, the setup cost is spread across fewer copies, and so on, but once you get into the area beyond "basic novel in paperback", things get bleak.  
+  Haven't met many that get enthousiastic about doing stuff like overprint (printing onto, thus *over* the edge), full spreads, or classic hardcover binding, let alone fancy stuff like fold-outs or tabbed cuts. Without further data, I blame it on the Dutch mentality: cheaper is better, so there's no place for printers with fancy stuff and a love for harder-to-accomplish output, or the (few) ones that can don't care about their internet presence. I don't know. 🤷  
+  I've been regretting this since my youth and haven't found an answer other than "go abroad, try there".
 
